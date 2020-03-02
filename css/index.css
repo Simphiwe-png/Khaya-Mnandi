@@ -1,0 +1,40 @@
+body {
+
+
+}
+
+ul li{
+  margin: 7px;
+  float: right;
+  list-style: none;
+  margin-top: 90px;
+
+}
+ul li a{
+text-decoration: none;
+  color: black;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+.logo-cont{
+  float: left;
+
+}
+.top{
+  margin-top: -75px;
+}
+.socials {
+background: black;
+  text-align: center;
+}
+.socials img {
+  margin: 20px;
+}
+.socials {
+  height: 50px;
+}
+}
+header {
+  margin: 0 auto;
+  width: 85%;
+}
